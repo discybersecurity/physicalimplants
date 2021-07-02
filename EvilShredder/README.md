@@ -29,36 +29,36 @@ An implant that focuses on just attacking the network would be easy to implement
 
 
 
-## Information Gathered so far
+## Information gathered so far
 
 
-![BottomView](/images/BottomView.jpg)
+![BottomView](/EvilShredder/images/BottomView.jpg)
 
 In this image, we see the bottom of the shredder module, all of them are standard Philips head screws with nothing to indicate that the device was tampered with.
 
 
 Once we remove the eight screws holding the backplate on, we see the following components.
 
-![Internal-View](/images/InternalView.jpg)
+![Internal-View](/EvilShredder/images/InternalView.jpg)
 
 
 There is so much internal space available that an encased Raspberry Pi 4 could be used instead of the originally planned Pi Zero WH.
 
-![Raspberry Pi](/images/CircuitRasp.jpg)
+![Raspberry Pi](/EvilShredder/images/CircuitRasp.jpg)
 
 
 The next interesting part of this setup is the top plate of document feeder, this is where the enduser would input the documents. To keep the device as safe as possible, the manufactures use a very small grove that can fit paper but not much else. This is perfect for concealing a camera or camera array away from the user's line of sight.
 
-![Top Feeder](/images/FeederTop.jpg)
+![Top Feeder](/EvilShredder/images/FeederTop.jpg)
 
 
 On the bottom of the document feeder is already reinforced with ribs that offer the perfect place to anchor the camera / cameras. 
 
-![Bottom Feeder] (/images/FeederBottom.jpg)
+![Bottom Feeder] (/EvilShredder/images/FeederBottom.jpg)
 
 To save power / processing, we need a mechanism that can trigger the camera to activate when a target input a piece of paper.  The AutoStart switch is the perfect place to capture the signal.
 
-![Switch] (/images/Switch.jpg)
+![Switch] (/EvilShredder/images/Switch.jpg)
  
 ## Challenges  ( So Far )
 
