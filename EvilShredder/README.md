@@ -54,11 +54,11 @@ The next interesting part of this setup is the top plate of document feeder, thi
 
 On the bottom of the document feeder is already reinforced with ribs that offer the perfect place to anchor the camera / cameras. 
 
-![Bottom Feeder] (/EvilShredder/images/FeederBottom.jpg)
+![Bottom Feeder](/EvilShredder/images/FeederBottom.jpg)
 
 To save power / processing, we need a mechanism that can trigger the camera to activate when a target input a piece of paper.  The AutoStart switch is the perfect place to capture the signal.
 
-![Switch] (/EvilShredder/images/Switch.jpg)
+![Switch](/EvilShredder/images/Switch.jpg)
  
 ## Challenges  ( So Far )
 
